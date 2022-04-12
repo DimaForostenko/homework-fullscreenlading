@@ -58,13 +58,13 @@
 }
 
 #tree-block{
- 
+ display: flex;
  text-align: center;
+ 
   
 }
 #tree-block .first,
 #tree-block .third{
-  
   padding: 20px;
   background: #926239;
   color: #fff;
